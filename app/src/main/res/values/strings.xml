@@ -1,0 +1,4 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">AndroidVideoPlayerListTest</string>
+    <string name="videoname" tools:keep="@string/videoname">videoname</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="video">
+        <item>@raw/five_more_minutes_please</item>
+        <item>@raw/he_came_to_work_without_his_laptop_but_he_will_not_let_anything_stand_between_him_and_productivity</item>
+        <item>@raw/hugh_jackman_runs_into_a_former_student</item>
+        <item>@raw/mans_best_friend</item>
+        <item>@raw/master_of_comedy</item>
+        <item>@raw/owner_dresses_up_as_dogs_favourite_toy</item>
+        <item>@raw/she_did_it_im_the_good_boy_so_lets_play</item>
+        <item>@raw/so_close</item>
+        <item>@raw/this_is_the_first_time_i_laughed_at_a_bull_fighting</item>
+        <item>@raw/trailer_footage_vs_actual_gameplay</item>
+        <item>@raw/wait_for_it</item>
+        <item>@raw/when_she_says_her_parents_arent_home</item>
+    </integer-array>
+
+</resources>
